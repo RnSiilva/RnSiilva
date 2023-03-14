@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**RnSiilva/RnSiilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **About me**
 
-Here are some ideas to get you started:
+My name is Renan, I'm 22 and I'm a student at [42Porto](https://www.42porto.com/). Deeply interested in areas of programming. Committed to personal and professional improvement, I am constantly seeking to learn and develop as a programmer. I am highly motivated to tackle challenges and initiate complex projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+	<a href="https://www.linkedin.com/in/renan-carlos-s-730570139/">
+		<img src="https://img.shields.io/badge/-Visit my LinkedIn-2975FE?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" alt="LinkedIn">
+</div>
+
+## **I've worked with**
+<div align=center>
+	<img src="https://img.shields.io/badge/-C/C++-00AAFF?style=for-the-badge&logo=C&logoColor=FFFFFF" alt="C/C++">
+	<img src="https://img.shields.io/badge/Javascript-FFAB00?style=for-the-badge" alt="Javascript">
+	<img src="https://img.shields.io/badge/Git-FF5500?style=for-the-badge&logo=Git&logoColor=FFFFFF" alt="Git">
+	<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF" alt="GitHub">
+	<img src="https://img.shields.io/badge/Visual Studio Code-5555FF?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF" alt="Visual Studio Code">
+	<img src="https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF" alt="Ubuntu">
+	<img src="https://img.shields.io/badge/Slack-74D126?style=for-the-badge&logo=Slack&logoColor=FFFFFF" alt="Slack">
+	<img src="https://img.shields.io/badge/Discord-5053FF?style=for-the-badge&logo=Discord&logoColor=FFFFFF" alt="Discord">
+</div>
+
+## **Github stats**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?style=for-the-badge&username=RnSiilva&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=RnSiilva&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
