@@ -1,7 +1,11 @@
 
-## **About me**
+## **Hi, I'm Renan**
 
-My name is Renan, I'm 22 and I'm a student at [42Porto](https://www.42porto.com/). Deeply interested in areas of programming. Committed to personal and professional improvement, I am constantly seeking to learn and develop as a programmer. I am highly motivated to tackle challenges and initiate complex projects.
+I'm a Brazilian industrial electrician who moved to Portugal at the beginning of 2022 in search of new experiences and learning.
+
+I have always interested in the technology area, and at the beginning of 2023 I participated in the selection process at school [42Porto](https://www.42porto.com/), which I was approved and now I'm a student at this innovative school.
+
+Committed to personal and professional improvement, I am constantly seeking to learn and develop as a programmer. I am highly motivated to tackle challenges and initiate complex projects.
 
 
 <div align="center">
