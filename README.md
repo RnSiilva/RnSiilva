@@ -21,7 +21,6 @@ Committed to personal and professional improvement, I am constantly seeking to l
 	<img src="https://img.shields.io/badge/Javascript-FFAB00?style=for-the-badge" alt="Javascript">
 	<img src="https://img.shields.io/badge/Git-FF5500?style=for-the-badge&logo=Git&logoColor=FFFFFF" alt="Git">
 	<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF" alt="GitHub">
-	<img src="https://img.shields.io/badge/Visual Studio Code-5555FF?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF" alt="Visual Studio Code">
 	<img src="https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF" alt="Ubuntu">
 	<img src="https://img.shields.io/badge/Slack-74D126?style=for-the-badge&logo=Slack&logoColor=FFFFFF" alt="Slack">
 	<img src="https://img.shields.io/badge/Discord-5053FF?style=for-the-badge&logo=Discord&logoColor=FFFFFF" alt="Discord">
